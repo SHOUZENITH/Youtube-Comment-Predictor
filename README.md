@@ -20,7 +20,7 @@ Gradient boosting model for predicting like counts from structured features.
 
 Due to size limits, trained models and dependencies are provided via Google Drive.
 
-**Models & node_modules** → [Google Drive Link](https://drive.google.com/drive/folders/12QAQB9CRDT5UYmuqFdLagSMWP6qbP068?usp=sharing)   
+**Models** → [Google Drive Link](https://drive.google.com/drive/folders/12QAQB9CRDT5UYmuqFdLagSMWP6qbP068?usp=sharing)   
 
 Notebooks
 
